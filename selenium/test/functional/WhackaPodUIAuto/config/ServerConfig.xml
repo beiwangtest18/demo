@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config name="pre_migration">
+    <server id="01" name="CI">		
+		<UIUrl>https://app.wercker.com/sessions/new</UIUrl>
+		<UINextUrl>http://10.136.240.127/whackapod-game/next.html</UINextUrl>
+		<UIAdvancedUrl>http://10.136.240.127/whackapod-game/next.html</UIAdvancedUrl>
+	</server>
+</config>		
